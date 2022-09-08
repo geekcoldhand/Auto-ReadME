@@ -5,10 +5,10 @@ Title: hello world
     Installation:
     Usage: helping people
 
-    Licenses: [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)]
+    Licenses: ![[License(https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
     Contributors:
     Test:
     GitHub: https://github.com/geekcoldhand/Auto-ReadME
     Questions: horatiousaharris@gmail.com
 
-link to video: https://drive.google.com/file/d/1EarfSCY4hRjRbjzuIEmVfkUGYkK1v2_Z/view?usp=sharing
+link to video: https://drive.google.com/file/d/1HcX-1zbPJHCoav-8BRKMo208zkWPRQef/view?usp=sharing
